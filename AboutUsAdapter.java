@@ -48,7 +48,7 @@ public class AboutUsAdapter extends RecyclerView.Adapter<AboutUsAdapter.ImageVie
         String Author1="Daksh Gandhi";
         String Author2="Akshat Jain";
         String des1="Daksh is 3rd Year Engineering Student whose idea of fun is Coding and Flying Drones ";
-        String des2="Akshat is 3rd Year Engineering Student who loves to explore new things and travelling ";
+        String des2="Akshat is 3rd Year Engineering Student who loves to explore new things  ";
         if(position==0) {
             holder.textViewName1.setText(Author1);
             holder.textViewName2.setVisibility(View.INVISIBLE);
